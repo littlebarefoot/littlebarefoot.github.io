@@ -40,5 +40,8 @@ h1 {
 	text-align: center;
 }
 #kick_cover {
-	background: #ecd3fd url('http://i.imgur.com/9BOuYE7.gif') no-repeat fixed center center;
+	background-color: #ecd3fd;
+	background-image: url('http://i.imgur.com/9BOuYE7.gif');
+	background-repeat: no-repeat;
+	background-origin center center;
 	}
